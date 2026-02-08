@@ -26,7 +26,7 @@ class card extends ChangeNotifier {
       name: 'kyril ',
       price: '324',
       discription: 'Expensive one for Expensive people',
-      imagepath: 'lib/images/sneaker1.jpeg',
+      imagepath: 'lib/images/airone.jpeg',
     ),
   ];
   //list of user card
